@@ -1,0 +1,10 @@
+
+User Names and Passwords:
+
+Manager:
+userName: manager1
+password: password
+
+Restocker:
+userName: restocker1
+password: password
